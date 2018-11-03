@@ -5,3 +5,6 @@
 *.scm~
 *.scm#*
 .#*.scm
+
+# My file
+.DS_Store
