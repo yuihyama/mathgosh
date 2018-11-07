@@ -1,4 +1,4 @@
-# mymathscm
+# mathgosh
 
 
 Gauche 0.9.6
